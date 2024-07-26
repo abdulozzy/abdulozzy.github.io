@@ -1,0 +1,27 @@
+.tengah{
+    text-align: center;
+}
+.table{
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100px;
+    border: 1px rgb(0,0,0);
+}
+.navbar{
+    overflow: hidden;
+    background-color: wheat;
+}
+.navbar a{
+    float: left;
+    display: block;
+    color : wheat;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.navbar a:hover{
+    background-color: wheat;
+    color: rgb(215, 245, 250);
+    align-items: center;
+}
